@@ -3,8 +3,6 @@ This program helps fascilitate (&ast;cough&ast; cheat) the lookup of word possib
 
 ## Dependencies
 ### boost-regex
-Mac: `brew install boost`
-
 Linux: install something like **libboost-regex1.xx-dev** from your distro's package manager.
 
 ## Compile and Run
